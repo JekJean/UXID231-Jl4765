@@ -6,3 +6,5 @@ Hi, I'm Jacky! I'm a Cambodian international student living and learning in the 
 ## Topic
 This is my portfolio website, where I share my work, ideas, and creative projects throughout my journey.
 
+## AI use
+AI use will be kept to a minimum and will be primarily used as a learning tool.
